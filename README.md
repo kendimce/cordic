@@ -6,4 +6,4 @@
 	- Reassign based on the prerotation.
 	- Assign Sine and Cosine.
 
-![cordic](https://github.com/kendimce/cordic/blob/main/cordic/cordic_sim.png)
+![cordic](https://github.com/kendimce/cordic/blob/main/cordic_sim.png)
